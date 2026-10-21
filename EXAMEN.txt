@@ -4,3 +4,5 @@ Enunciado del examen
 modificando main
 
 cambios en el main para provocar un conflicto
+
+uniendo las 2 ramas
