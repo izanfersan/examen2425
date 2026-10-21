@@ -2,3 +2,5 @@ EXAMEN.txt
 Enunciado del examen
 
 modificando main
+
+cambios en el main para provocar un conflicto
